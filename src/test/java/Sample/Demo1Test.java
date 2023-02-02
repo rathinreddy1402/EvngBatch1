@@ -8,5 +8,6 @@ public void t1()
 {
 	System.out.println("hi");
 	//pushed
+	//2nd push
 }
 }
